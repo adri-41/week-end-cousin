@@ -22,3 +22,12 @@ div{
 	top: 20%;
 	position: absolute;
 }
+
+audio{
+	display: block;
+}
+
+a{
+	text-decoration : none;
+	color: black;
+}
