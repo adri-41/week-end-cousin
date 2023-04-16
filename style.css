@@ -2,3 +2,20 @@
     padding: 0px;
     margin: 0px;
 }
+
+h1{
+    text-align: center;
+}
+
+section{
+    /*min-height: 100vh; /* 100% de la hauteur de l'écran */
+    width: 100%; /* 100% de la largeur de l'écran */
+    display: flex; /* étendre les éléments pour remplir tout l'espace disponible */
+    align-items: center; /* centrer les éléments horizontales */
+    /*justify-content: center; /* centrer les éléments verticalement */
+    flex-direction: column;
+}
+
+iframe{
+    width: 80%;
+}
